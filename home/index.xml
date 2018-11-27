@@ -36,7 +36,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Cloudmesh has a large number of community contributors. The community is managed in github. They are mostly from classes taught at Indiana Univerity. The number is actually much larger as previous classes have not been integrated in github.
+      <description>Cloudmesh has a large number of community contributors. The community is managed in github. This includes a large number of projects that have been conducted at Indiana University . The number is actually much larger as previous projects are not integrated in our public github.
 The list of currently managed projects in github can be found at
  https://github.com/cloudmesh-community  We have over 140 repositories.</description>
     </item>
@@ -93,8 +93,7 @@ ePuB  </description>
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/proceedings/</guid>
-      <description>ePubs are best read on
- MacOS with Books, Windows with Microsoft Edge, or Calibre Linux with Calibre  In Future we will provide HTML and PDF versions fore those that do not use ePuB readers much.
+      <description>ePubs are best read on MacOS with Books, Windows with Microsoft Edge, or Calibre, and Linux with Calibre. In Future we will provide HTML and PDF versions fore those that do not use ePuB readers much.
 Class Proceedings    Link Class Description     ePub   E516, E416, B649 Cloud Computing: Evolving Lecture notes for class E516, E416, B649   ePub   E516, E416, B649 Raspberry PI Clusters: Evolving Lecture notes for class E516, E416, B649   ePub   e534, I523, I423 Big Data Aplications and Analytics: Evolving Lecture notes for class e534, I523, I423   ePub   github   e534, I523, I423 Cloud Technologies   ePub   all Scientific Writing I for all classes   PDF   all Scientific Writing II for all classes   bibtex   all BibTeX files directory I as used in the books ePub   bibtex   all BibTeX files directory II as used in the Cloud Technologies ePub    Class Project and Paper Proceedings The following Proceedings summarize a technology in Cloud Computing or Big Data</description>
     </item>
     
