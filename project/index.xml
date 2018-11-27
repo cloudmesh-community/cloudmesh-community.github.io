@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cloudmesh Community</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 01:42:40 -0500</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloudmesh Pi Burn</title>
+      <link>/project/cloudmesh-pi-burn/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-pi-burn/</guid>
+      <description>cm-burn is a program to burn many SD cards for the preparation of building clusters with Raspberry Pi&amp;rsquo;s. The program is developed in Python and is portable on Linux, Windows, and OSX. It allows users to create readily bootable SD cards that have the network configured, contain a public ssh key from your machine that you used to configure the cards. The unique feature is that you can burn multiple cards in a row.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Nist</title>
+      <link>/project/cloudmesh-nist/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Graphql</title>
+      <link>/project/cloudmesh-graphql/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Client</title>
+      <link>/project/cloudmesh-client/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-client/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ePub on Cloudmesh Community</title>
+    <link>/tags/epub/</link>
+    <description>Recent content in ePub on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/epub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data Applications and Analytics</title>
+      <link>/publication/las-18-bigdata/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software</title>
+      <link>/publication/las-18-software-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-software-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software</title>
+      <link>/publication/las-18-software-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-software-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>/publication/las-18-cloudcomputing/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-cloudcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing with the Raspberry Pi</title>
+      <link>/publication/las-18-cloudcomputing-pi/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-cloudcomputing-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud and Big Data Technologies</title>
+      <link>/publication/las-18-tecc-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-tecc-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Writing I</title>
+      <link>/publication/las-18-writing-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-writing-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Writing II</title>
+      <link>/publication/las-18-writing-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-writing-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Data Software and Analytics</title>
+      <link>/publication/las-18-usecases-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-usecases-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Data Software and Analytics</title>
+      <link>/publication/las-18-usecases-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-usecases-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Cloudmesh Community</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Community</title>
+      <link>/home/about/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Cloudmesh has a large number of community contributors. The community is managed in github. They are mostly from classes taught at Indiana Univerity. The number is actually much larger as previous classes have not been integrated in github.
+The list of currently managed projects in github can be found at
+ https://github.com/cloudmesh-community  We have over 140 repositories.</description>
+    </item>
+    
+    <item>
+      <title>Proceedings</title>
+      <link>/home/p/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/p/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
+    </item>
+    
+    <item>
+      <title>Normal</title>
+      <link>/home/normal/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/normal/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
+ePuB  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/gvl/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/gvl/</guid>
+      <description>Biography Gregor von Laszewski is an Assistant Director DSC in the School of Informatics and Computing at Indiana University. He holds also a position as Adjunct Professor in the Intelligent Systems Engineering Department. Previously he held Adjunct Professor positions at the Computer Science Department at Indiana University and University of North Texas, hes has taught on voluntary basis at Illinois Institute of Technology. He received a Masters Degree in 1990 from the University of Bonn, Germany, and a Ph.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Versions</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>/home/proceedings/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/home/proceedings/</guid>
+      <description>ePubs are best read on
+ MacOS with Books, Windows with Microsoft Edge, or Calibre Linux with Calibre  In Future we will provide HTML and PDF versions fore those that do not use ePuB readers much.
+Class Proceedings    Link Class Description     ePub   E516, E416, B649 Cloud Computing: Evolving Lecture notes for class E516, E416, B649   ePub   E516, E416, B649 Raspberry PI Clusters: Evolving Lecture notes for class E516, E416, B649   ePub   e534, I523, I423 Big Data Aplications and Analytics: Evolving Lecture notes for class e534, I523, I423   ePub   github   e534, I523, I423 Cloud Technologies   ePub   all Scientific Writing I for all classes   PDF   all Scientific Writing II for all classes   bibtex   all BibTeX files directory I as used in the books ePub   bibtex   all BibTeX files directory II as used in the Cloud Technologies ePub    Class Project and Paper Proceedings The following Proceedings summarize a technology in Cloud Computing or Big Data</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Books, Projects and Papers</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Software</title>
+      <link>/home/software/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/home/software/</guid>
+      <description>Software releases
+   Software Version Status Code     Cloudmesh v4  link   Cloudmesh v3  link   Cloudmesh v2  link   Cloudmesh v1  link   Cloudmesh GraphQL alpha  link    </description>
+    </item>
+    
+    <item>
+      <title>Classes</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I am teaching regular a number of classes and participate also in defining content and project for them as well as coordinating the TA&amp;rsquo;s. This includes e222, e516, i523, i524.
+Ongoing Classes    Class ID Semester Proceedings Piazza     Cloud Computing Engeneering e516 Fall 2018 Project, Papers link   Big Data i513 Fall 2018 Project, Papers, Technologies link    Upcomming Classes The followng classes will be offered in Spring 2018</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

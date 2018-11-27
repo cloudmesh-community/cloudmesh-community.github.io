@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Cloudmesh Community</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data Applications and Analytics</title>
+      <link>/publication/las-18-bigdata/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software</title>
+      <link>/publication/las-18-software-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-software-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software</title>
+      <link>/publication/las-18-software-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-software-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>/publication/las-18-cloudcomputing/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-cloudcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing with the Raspberry Pi</title>
+      <link>/publication/las-18-cloudcomputing-pi/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-cloudcomputing-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud and Big Data Technologies</title>
+      <link>/publication/las-18-tecc-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-tecc-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: A Cloud Computing Approach to Financial Decision Automation</title>
+      <link>/publication/fa-18-523-63-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-63-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: AWS Lambda</title>
+      <link>/publication/fa-18-516-18-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-18-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: AWS-EMR</title>
+      <link>/publication/fa-18-516-22-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-22-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Analysis of Global Commodity Statistics using PySpark and Watson Analytics</title>
+      <link>/publication/fa-18-523-81-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-81-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Analytics in Consumer Behaviors in Black Friday with TensorFlow</title>
+      <link>/publication/fa-18-523-85-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-85-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Apache NiFi</title>
+      <link>/publication/fa-18-523-56-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-56-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Apache NiFi Chapter</title>
+      <link>/publication/fa-18-523-56-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-56-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Azure Data Services</title>
+      <link>/publication/fa-18-516-06-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-06-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Big Data Analytics in E-commerce</title>
+      <link>/publication/fa-18-523-85-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-85-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Big Data Applications in recommender systems</title>
+      <link>/publication/fa-18-523-70-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-70-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Big Data Applications in recommender systems</title>
+      <link>/publication/fa-18-523-70-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-70-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Big Data and Streaming</title>
+      <link>/publication/fa-18-523-62-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-62-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Big data in SAP Ariba</title>
+      <link>/publication/fa-18-523-86-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-86-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Big data in education</title>
+      <link>/publication/fa-18-523-73-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-73-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Cloud Computing Use Cases</title>
+      <link>/publication/fa-18-516-14-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-14-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Cloud Foundry - Open Source PaaS</title>
+      <link>/publication/fa-18-516-11-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-11-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Cloud Security Alliance (CSA)</title>
+      <link>/publication/fa-18-516-17-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-17-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Cloudmesh Graphql App</title>
+      <link>/publication/fa-18-516-21-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-21-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Creating a RESTful API Service Using MongoDB and Azure SQL Database</title>
+      <link>/publication/fa-18-516-06-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-06-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Credit Card Defaulter Analysis</title>
+      <link>/publication/fa-18-523-71-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-71-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Credit scoring algorithm and its implementation in production</title>
+      <link>/publication/fa-18-523-83-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-83-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Data analysis Of Yelp reviews</title>
+      <link>/publication/fa-18-523-65-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-65-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Develope the remote parallel jobs tool with slurm support and experiment interface</title>
+      <link>/publication/fa-18-516-26-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-26-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Distributed TensorFlow</title>
+      <link>/publication/fa-18-523-68-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-68-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Do I buy or sell? - Using Big Data to predict Stock Prices</title>
+      <link>/publication/fa-18-523-66-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-66-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Explore OpenFaaS Development and Deployment Aspects</title>
+      <link>/publication/fa-18-516-11-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-11-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: GPPR</title>
+      <link>/publication/fa-18-516-08-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-08-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: GraphQL</title>
+      <link>/publication/fa-18-516-21-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-21-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Guided Analytics Using Knime</title>
+      <link>/publication/fa-18-523-52-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-52-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Historical Storm Data Analysis with HBase</title>
+      <link>/publication/fa-18-523-57-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-57-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: HySDS on Kubernetes: ARIA InSAR Processing on XSEDE Jetstream</title>
+      <link>/publication/fa-18-516-14-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-14-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: IBM Cognos Business Intelligence</title>
+      <link>/publication/fa-18-523-81-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-81-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Image Classification using k-means on TensorFlow</title>
+      <link>/publication/fa-18-523-68-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-68-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Kickstarter Projects Analysis</title>
+      <link>/publication/fa-18-523-60-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-60-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: LAMP Stacks - Linux Apache, MySql, PHP </title>
+      <link>/publication/fa-18-516-19-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-19-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Manage Files across multiple Cloud Providers</title>
+      <link>/publication/fa-18-516-18-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-18-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Managing AWS Lambda Using REST API</title>
+      <link>/publication/fa-18-516-08-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-08-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: MapReduce with Hadoop and Spark</title>
+      <link>/publication/fa-18-516-18-paper-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-18-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Microservices and Kafka</title>
+      <link>/publication/fa-18-523-53-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-53-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: MongoDB in Python</title>
+      <link>/publication/fa-18-523-60-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-60-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Morphological Image-based Profiling of Cells for Scientific Community</title>
+      <link>/publication/fa-18-523-52-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-52-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Natural Language Processing as related to Big Data</title>
+      <link>/publication/fa-18-523-61-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-61-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Natural language processing</title>
+      <link>/publication/fa-18-523-65-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-65-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: None</title>
+      <link>/publication/fa-18-523-88-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-88-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: None</title>
+      <link>/publication/fa-18-523-88-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-88-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: OpenWhisk</title>
+      <link>/publication/fa-18-516-26-paper-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-26-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Orchestrating Microservices for Credit Scoring Application using Kafka.</title>
+      <link>/publication/fa-18-523-53-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-53-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Parallel Programming in Python</title>
+      <link>/publication/fa-18-516-26-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-26-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Predicting English Premier League Results Based on Tweets</title>
+      <link>/publication/fa-18-523-62-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-62-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: PyTorch</title>
+      <link>/publication/fa-18-523-57-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-57-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Raspberry Pi Cassandra Cluster</title>
+      <link>/publication/fa-18-523-84-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-84-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Raspberry Pi IoT Sensors</title>
+      <link>/publication/fa-18-523-84-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-84-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Role of Big Data in IoT</title>
+      <link>/publication/fa-18-523-71-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-71-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Running a Jupyter Notebook Analysis on AWS EMR Utilizing a REST Service</title>
+      <link>/publication/fa-18-516-22-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-22-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: SAP</title>
+      <link>/publication/fa-18-523-86-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-86-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: SAS Viya</title>
+      <link>/publication/fa-18-523-66-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-66-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Scalable Data Processing for Retail</title>
+      <link>/publication/fa-18-516-17-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-17-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Scikit-learn</title>
+      <link>/publication/fa-18-523-63-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-63-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Setup multipe PI SDs with cm-burn</title>
+      <link>/publication/fa-18-516-23-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-23-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: TBD</title>
+      <link>/publication/fa-18-516-04-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-04-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: TBD</title>
+      <link>/publication/fa-18-516-04-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-04-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: TBD</title>
+      <link>/publication/fa-18-516-19-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-19-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: TBD</title>
+      <link>/publication/fa-18-523-61-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-61-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: Watson Analytics</title>
+      <link>/publication/fa-18-523-82-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-523-82-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: cm4</title>
+      <link>/publication/fa-18-516-12-project-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-12-project-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper: working on the vm description for cm4</title>
+      <link>/publication/fa-18-516-12-paper-0/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fa-18-516-12-paper-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Writing I</title>
+      <link>/publication/las-18-writing-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-writing-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific Writing II</title>
+      <link>/publication/las-18-writing-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-writing-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Data Software and Analytics</title>
+      <link>/publication/las-18-usecases-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-usecases-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Cases in Big Data Software and Analytics</title>
+      <link>/publication/las-18-usecases-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-usecases-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

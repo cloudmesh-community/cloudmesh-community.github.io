@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudmesh Community on Cloudmesh Community</title>
+    <link>/</link>
+    <description>Recent content in Cloudmesh Community on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloudmesh Pi Burn</title>
+      <link>/project/cloudmesh-pi-burn/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:40 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-pi-burn/</guid>
+      <description>
+
+&lt;p&gt;&lt;code&gt;cm-burn&lt;/code&gt; is a program to burn many SD cards for the preparation of
+building clusters with Raspberry Pi&amp;rsquo;s.  The program is developed in
+Python and is portable on Linux, Windows, and OSX. It allows users to
+create readily bootable SD cards that have the network configured,
+contain a public ssh key from your machine that you used to configure
+the cards.  The unique feature is that you can burn multiple cards in
+a row.&lt;/p&gt;
+
+&lt;p&gt;A sample command invocation looks like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cm-burn —-name  red[5-7] \
+        --key ~/.ssh/id_rsa.pub \
+        —-ips 192.168.1.[5-7] \
+        —-image 2018-06-27-raspbian-stretch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This command creates 3 SD cards where the hostnames &lt;code&gt;red5&lt;/code&gt;, &lt;code&gt;red6&lt;/code&gt;, &lt;code&gt;red 7&lt;/code&gt;
+with the network addresses &lt;code&gt;192.168.1.5&lt;/code&gt;, &lt;code&gt;192.168.1.6&lt;/code&gt;,
+and &lt;code&gt;192.168.1.7&lt;/code&gt;. The public key is added to the authorized_keys file
+of the pi user.  The password login is automatically disabled and only
+the ssh key authentication is enabled.&lt;/p&gt;
+
+&lt;h2 id=&#34;refernces&#34;&gt;Refernces&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Project Web Page: &lt;a href=&#34;https://github.com/cloudmesh-community/cm-burn&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm-burn&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Nist</title>
+      <link>/project/cloudmesh-nist/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Graphql</title>
+      <link>/project/cloudmesh-graphql/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Client</title>
+      <link>/project/cloudmesh-client/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 4</title>
+      <link>/post/version-4/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:10 -0500</pubDate>
+      
+      <guid>/post/version-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 3</title>
+      <link>/post/version-3/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:07 -0500</pubDate>
+      
+      <guid>/post/version-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 2</title>
+      <link>/post/version-2/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:04 -0500</pubDate>
+      
+      <guid>/post/version-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version 1</title>
+      <link>/post/version-1/</link>
+      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
+      
+      <guid>/post/version-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Version Graphql</title>
+      <link>/post/version-graphql/</link>
+      <pubDate>Sat, 24 Nov 2018 01:32:53 -0500</pubDate>
+      
+      <guid>/post/version-graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Applications and Analytics</title>
+      <link>/publication/las-18-bigdata/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software</title>
+      <link>/publication/las-18-software-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-software-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Software</title>
+      <link>/publication/las-18-software-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-software-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>/publication/las-18-cloudcomputing/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-cloudcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing with the Raspberry Pi</title>
+      <link>/publication/las-18-cloudcomputing-pi/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-cloudcomputing-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud and Big Data Technologies</title>
+      <link>/publication/las-18-tecc-1/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/las-18-tecc-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
