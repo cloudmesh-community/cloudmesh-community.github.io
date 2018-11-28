@@ -88,13 +88,13 @@ ePuB  </description>
     </item>
     
     <item>
-      <title>Classes</title>
+      <title>Lecture Notes</title>
       <link>/home/proceedings/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/proceedings/</guid>
       <description>ePubs are best read on MacOS with Books, Windows with Microsoft Edge, or Calibre, and Linux with Calibre. In Future we will provide HTML and PDF versions fore those that do not use ePuB readers much.
-Class Proceedings    Link Class Description     ePub   E516, E416, B649 Cloud Computing: Evolving Lecture notes for class E516, E416, B649   ePub   E516, E416, B649 Raspberry PI Clusters: Evolving Lecture notes for class E516, E416, B649   ePub   e534, I523, I423 Big Data Aplications and Analytics: Evolving Lecture notes for class e534, I523, I423   ePub   github   e534, I523, I423 Cloud Technologies   ePub   all Scientific Writing I for all classes   PDF   all Scientific Writing II for all classes   bibtex   all BibTeX files directory I as used in the books ePub   bibtex   all BibTeX files directory II as used in the Cloud Technologies ePub    Class Project and Paper Proceedings The following Proceedings summarize a technology in Cloud Computing or Big Data</description>
+Lecture Notes Cloud Computing ePub     Version: Fall2018 Editors: Gregor von Laszewski, Geoffrey C. Fox, Fugang Wang Classes: E516, E416, B649 Description: This document contains an Introduction to Cloud Computing augmented with many practical technical examples.</description>
     </item>
     
     <item>
@@ -104,6 +104,17 @@ Class Proceedings    Link Class Description     ePub   E516, E416, B649 Cloud Co
       
       <guid>/home/publications_selected/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Community Proceedings</title>
+      <link>/home/proceedings-community/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/home/proceedings-community/</guid>
+      <description>Class Project and Paper Proceedings The following Proceedings summarize a technology in Cloud Computing or Big Data
+Cloud Big Data Use Cases and Technologies Use Cases in Big Data Software and Analytics, Series Vol. 1 PDF     Version: Fall2017 Editors: Gregor von Laszewski Classes: e534, I523, I423
+ Description: This document contains contributed 2 summary page papers by students of the class. This includes 62 papers in application areas including buisiness, energy, environment, government, health, machine learning, media, security, sports, transportation and theory in general.</description>
     </item>
     
     <item>
