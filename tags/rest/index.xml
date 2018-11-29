@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST on Cloudmesh Community</title>
+    <link>/tags/rest/</link>
+    <description>Recent content in REST on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 01:42:26 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloudmesh Nist</title>
+      <link>/project/cloudmesh-nist/</link>
+      <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-nist/</guid>
+      <description>We identify interfaces that are instrumental for the interaction with Clouds, Containers, and High Performance Computing (HPC) systems to manage virtual clusters to support the NIST Big Data Reference Architecture (NBDRA). The REpresentational State Transfer (REST) paradigm is used to define these interfaces, allowing easy integration and adoption by a wide variety of frameworks.
+Refernces 1.NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces PDF</description>
+    </item>
+    
+  </channel>
+</rss>

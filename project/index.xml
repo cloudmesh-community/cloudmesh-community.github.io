@@ -27,7 +27,8 @@
       <pubDate>Sat, 24 Nov 2018 01:42:26 -0500</pubDate>
       
       <guid>/project/cloudmesh-nist/</guid>
-      <description></description>
+      <description>We identify interfaces that are instrumental for the interaction with Clouds, Containers, and High Performance Computing (HPC) systems to manage virtual clusters to support the NIST Big Data Reference Architecture (NBDRA). The REpresentational State Transfer (REST) paradigm is used to define these interfaces, allowing easy integration and adoption by a wide variety of frameworks.
+Refernces 1.NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces PDF</description>
     </item>
     
     <item>
@@ -45,7 +46,7 @@
       <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
       
       <guid>/project/cloudmesh-client/</guid>
-      <description></description>
+      <description>Cloudmesh client is a simple client to enable access to multiple cloud environments form a command shell and commandline. It is grown out of the need to simplify access to multiple clouds for researchers and students easily. In contrast to our earlier versions of cloudmesh it explicitly separates the code to only target client code. Due to this simplification it is also possible to install the client code not only on Linux, OSX, but also Windows.</description>
     </item>
     
   </channel>
