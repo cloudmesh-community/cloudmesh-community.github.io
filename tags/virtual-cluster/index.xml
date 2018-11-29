@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual cluster on Cloudmesh Community</title>
+    <link>/tags/virtual-cluster/</link>
+    <description>Recent content in virtual cluster on Cloudmesh Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Gregor von Laszewski, 2018</copyright>
+    <lastBuildDate>Mon, 26 Nov 2018 14:40:03 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/virtual-cluster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual Cluster on Comet</title>
+      <link>/project/cometvirtualcluster/</link>
+      <pubDate>Mon, 26 Nov 2018 14:40:03 -0500</pubDate>
+      
+      <guid>/project/cometvirtualcluster/</guid>
+      <description>Virtual cluster on Comet is a project to provide a virtual cluster to HPC users on Comet resources in on-demand fashion [1]. This marries the cloud computing usage scenario and the traditional HPC resources. On one hand, it provides a fully user-controlled cluster with totally customizable OS and software and service stacks; on another hand, this is built on top of HPC environment so users get a close-to-baremetal experience with regards to the performance.</description>
+    </item>
+    
+  </channel>
+</rss>
