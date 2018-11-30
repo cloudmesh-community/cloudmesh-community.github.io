@@ -22,12 +22,88 @@
     </item>
     
     <item>
+      <title>Cloudmesh Batch</title>
+      <link>/project/cloudmesh-pbs/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-pbs/</guid>
+      <description>Note: project needs update to newer version of cmd, eg. cmd5
+Cloudmesh PBS provides an easy mechanism to interface with queuing systems. It integrates nicely with cmd3 and therefore provides a convenient shell and commandline interface.
+The advantage of Cloudmesh PBS is that it can start pbs jobs on remote machines while using job templates to do so. Jobs submitted with Cloudmesh PBS are entered in a local database and their status on the remote machines can be monitored.</description>
+    </item>
+    
+    <item>
       <title>Cloudmesh Client</title>
       <link>/project/cloudmesh-client/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
       
       <guid>/project/cloudmesh-client/</guid>
-      <description>Cloudmesh client is a simple client to enable access to multiple cloud environments form a command shell and commandline. It is grown out of the need to simplify access to multiple clouds for researchers and students easily. In contrast to our earlier versions of cloudmesh it explicitly separates the code to only target client code. Due to this simplification it is also possible to install the client code not only on Linux, OSX, but also Windows.</description>
+      <description>Version Client Cloudmesh client is a simple client to enable access to multiple cloud environments form a command shell and commandline. It is grown out of the need to simplify access to multiple clouds for researchers and students easily. In contrast to our earlier versions of cloudmesh it explicitly separates the code to only target client code. Due to this simplification it is also possible to install the client code not only on Linux, OSX, but also Windows.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Client Dev</title>
+      <link>/project/cloudmesh-cm4/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-cm4/</guid>
+      <description>Cloudmesh client Dev or also called cm4 is a reimplementation of cloiudmesh client, while focussing entirely on Python 3.7.
+IN cloudmesh V1, and 2, we used MOngoDB. In version 3 we replaced it with SQLLite. However We found that flattening the data structures into sql although working ahs some limitations. To overcome them we reintegrate Mongo DB.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Cmd5</title>
+      <link>/project/cloudmesh-cmd5/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-cmd5/</guid>
+      <description>An dynamically extensible CMD based command shell.
+An example for the bar command is presented at:
+https://github.com/cloudmesh/cloudmesh.bar/blob/master/cloudmesh/bar/command/bar.py It shows how simple the command definition is (bar.py)::
+from __future__ import print_function from cloudmesh.shell.command import command from cloudmesh.shell.command import PluginCommand class BarCommand(PluginCommand): @command def do_bar(self, args, arguments): &amp;quot;&amp;quot;&amp;quot; :: Usage: command -f FILE command FILE command list This command does some useful things. Arguments: FILE a file name Options: -f specify the file &amp;quot;&amp;quot;&amp;quot; print(arguments)  An important difference to other CMD solutions is that our commands can leverage (besides the standrad definition), docopts as a way to define the manual page.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Inventory</title>
+      <link>/project/cloudmesh-inventory/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-inventory/</guid>
+      <description>We have two frameworks for an inventory. We like to reevaluate them and merge them into a single framework. Framework A allows to define arbitrary attributes which is more general
+Inventory - A https://github.com/cloudmesh/cloudmesh.inventory
+Sometimes its necessary to maintain a simple inventory. Naturally if you know python you can do this with dicts. However to manage a large number of items with repeated values its is of advantage to do this from the commandline.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Reservation</title>
+      <link>/project/cloudmesh-reservation/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-reservation/</guid>
+      <description>Note: This project needs improvements.
+Often we find resources that are limited in nature. We desire a REST framewor that can reserve resources and display teh reservation in a convenient manner.
+Cloudmesh Resource Reservation is being developed to create and manage reservationsh. It is important that this is supported in a multiuser environment. We will be developing for this a time based reservation system in which users will have access to resources based on time slices.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Task</title>
+      <link>/project/cloudmesh-task/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-task/</guid>
+      <description>task Often you may want to execute a number of commands in parallel. This project shows an example on how to do this easily with Celery.
+Our example creates a task that executes a shell command remotely on a machine. However, this is just an example you can realy create other tasks as you please.
+One of the issues is how to easily stage such tasks with a number of given parameters.</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Virtual Slurm Cluster</title>
+      <link>/project/cloudmesh-slurm/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-slurm/</guid>
+      <description>Note: We like to update this project to
+ use python instead of shell scripts and use cloudmesh client instead of Euca tools to manage virtual machines use kubernetes in addition to vms whch we want to integrate in cloudmesh so this is automatically provided.  Slurm is a workload manager used in clusters and supercomputers. Virtual Slurm is a tool to help manage slurm deployment in cloudmesh This project also includes installation of hadoop</description>
     </item>
     
     <item>

@@ -48,6 +48,7 @@ C. Fox. 2016. &lt;strong&gt;User Managed Virtual Clusters in Comet&lt;/strong&gt
 Proceedings of the XSEDE16 Conference on Diversity, Big Data, and
 Science at Scale (XSEDE16). ACM, New York, NY, USA&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/&#34; target=&#34;_blank&#34;&gt;https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh.comet&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cloudmesh.comet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -115,12 +116,52 @@ and adoption by a wide variety of frameworks.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Cloudmesh Graphql</title>
+      <title>Cloudmesh GraphQL</title>
       <link>/project/cloudmesh-graphql/</link>
       <pubDate>Sat, 24 Nov 2018 01:41:19 -0500</pubDate>
       
       <guid>/project/cloudmesh-graphql/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Cloudmesh cm4 is an ongoing project worked upon by entire class to create a network of computers that run parallel jobs. Currently it accepts commands via command line.&lt;/p&gt;
+
+&lt;p&gt;Our project provides an user interface to Cloudmesh cm4. In our project, we have implemented a client-server application which will accept commands from user interface and pass it to server which will perform corresponding appropriate actions. Our second aim with this project is to demonstrate client server communication through GraphQL Apis.&lt;/p&gt;
+
+&lt;p&gt;More info for GraphQL is available as a chapter in cloud computing handbook.&lt;/p&gt;
+
+&lt;h2 id=&#34;refernces&#34;&gt;Refernces&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Report: &lt;a href=&#34;https://github.com/cloudmesh-community/fa18-516-21/blob/master/project-paper/report.md&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/fa18-516-21/blob/master/project-paper/report.md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Program Code:
+&lt;a href=&#34;https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-code&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/fa18-516-21/tree/master/project-code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Additional Repo &lt;a href=&#34;https://github.com/cloudmesh-community/book/tree/master/examples/graphql/cloudmeshrepo&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/book/tree/master/examples/graphql/cloudmeshrepo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cm4: &lt;a href=&#34;https://github.com/cloudmesh-community/cm&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh-community/cm&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Batch</title>
+      <link>/project/cloudmesh-pbs/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-pbs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note: project needs update to newer version of cmd, eg. cmd5&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cloudmesh PBS provides an easy mechanism to interface with queuing
+systems. It integrates nicely with cmd3 and therefore provides a
+convenient shell and commandline interface.&lt;/p&gt;
+
+&lt;p&gt;The advantage of Cloudmesh PBS is that it can start pbs jobs on remote
+machines while using job templates to do so. Jobs submitted with
+Cloudmesh PBS are entered in a local database and their status on the
+remote machines can be monitored. Thus even if the job disappears from
+the queuing system either due to system issues or because they are
+long finished a record of it is maintained. In addition to the cmd3
+commandshell we provide a simple python API. A REST interface is being
+developed.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -129,7 +170,408 @@ and adoption by a wide variety of frameworks.&lt;/p&gt;
       <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
       
       <guid>/project/cloudmesh-client/</guid>
-      <description>&lt;p&gt;Cloudmesh client is a simple client to enable access to multiple cloud environments form a command shell and commandline. It is grown out of the need to simplify access to multiple clouds for researchers and students easily. In contrast to our earlier versions of cloudmesh it explicitly separates the code to only target client code. Due to this simplification it is also possible to install the client code not only on Linux, OSX, but also Windows. We have tested the installation on Windows 10.&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;version-client&#34;&gt;Version Client&lt;/h2&gt;
+
+&lt;p&gt;Cloudmesh client is a simple client to enable access to multiple cloud
+environments form a command shell and commandline. It is grown out of
+the need to simplify access to multiple clouds for researchers and
+students easily. In contrast to our earlier versions of cloudmesh it
+explicitly separates the code to only target client code. Due to this
+simplification it is also possible to install the client code not only
+on Linux, OSX, but also Windows. We have tested the installation on
+Windows 10. THis is a reimplementation of Version 3, but has some
+reduced functionality. However it is possible to use it on Windows.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Version 4, but still also see version 3: &lt;a href=&#34;https://github.com/cloudmesh/client&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/client&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;version-3-still-active&#34;&gt;Version 3 (still active)&lt;/h2&gt;
+
+&lt;p&gt;Cloudmesh client is a simple client to enable access to multiple cloud
+environments form a command shell and commandline. It is grown out of
+the need to simplify access to multiple clouds for researchers and
+students easily. In contrast to our earlier versions of cloudmesh it
+explicitly separates the code to only target client code. Due to this
+simplification it is also possible to install the client code not only
+on Linux and  OSX. (This version has not been tested on Windows).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web Page: &lt;a href=&#34;https://cloudmesh.github.io/&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Projects: &lt;a href=&#34;https://cloudmesh.github.io/projects.html&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/projects.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Version 3: &lt;a href=&#34;http://cloudmesh.github.io/cmd3/&#34; target=&#34;_blank&#34;&gt;http://cloudmesh.github.io/cmd3/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Manual Pages: &lt;a href=&#34;http://cloudmesh.github.io/cmd3/man/man.html&#34; target=&#34;_blank&#34;&gt;http://cloudmesh.github.io/cmd3/man/man.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/cmd3&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cmd3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;refernces&#34;&gt;Refernces&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web Page: &lt;a href=&#34;https://cloudmesh.github.io/&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Projects: &lt;a href=&#34;https://cloudmesh.github.io/projects.html&#34; target=&#34;_blank&#34;&gt;https://cloudmesh.github.io/projects.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Version 3: &lt;a href=&#34;http://cloudmesh.github.io/cmd3/&#34; target=&#34;_blank&#34;&gt;http://cloudmesh.github.io/cmd3/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Manual Pages: &lt;a href=&#34;http://cloudmesh.github.io/cmd3/man/man.html&#34; target=&#34;_blank&#34;&gt;http://cloudmesh.github.io/cmd3/man/man.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code: &lt;a href=&#34;https://github.com/cloudmesh/cmd3&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cmd3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Version 4, but still also see version 3: &lt;a href=&#34;https://github.com/cloudmesh/client&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/client&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Client Dev</title>
+      <link>/project/cloudmesh-cm4/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-cm4/</guid>
+      <description>&lt;p&gt;Cloudmesh client Dev or also called cm4 is a reimplementation of
+cloiudmesh client, while focussing entirely on Python 3.7.&lt;/p&gt;
+
+&lt;p&gt;IN cloudmesh V1, and 2, we used MOngoDB. In version 3 we replaced it
+with SQLLite. However We found that flattening the data structures
+into sql although working ahs some limitations. To overcome them we
+reintegrate Mongo DB.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Cmd5</title>
+      <link>/project/cloudmesh-cmd5/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-cmd5/</guid>
+      <description>&lt;p&gt;An dynamically extensible CMD based command shell.&lt;/p&gt;
+
+&lt;p&gt;An example for the bar command is presented at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh.bar/blob/master/cloudmesh/bar/command/bar.py&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cloudmesh.bar/blob/master/cloudmesh/bar/command/bar.py&lt;/a&gt;
+It shows how simple the command definition is (bar.py)::&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;from __future__ import print_function
+from cloudmesh.shell.command import command
+from cloudmesh.shell.command import PluginCommand
+
+class BarCommand(PluginCommand):
+
+    @command
+    def do_bar(self, args, arguments):
+        &amp;quot;&amp;quot;&amp;quot;
+        ::
+       
+          Usage:
+                command -f FILE
+                command FILE
+                command list
+          This command does some useful things.
+          Arguments:
+              FILE   a file name
+          Options:
+              -f      specify the file
+        &amp;quot;&amp;quot;&amp;quot;
+        print(arguments)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;An important difference to other CMD solutions is that our commands
+can leverage (besides the standrad definition), docopts as a way to
+define the manual page. This allows us to use arguments as dict and
+use simple if conditions to interpret the command. Using docopts has
+the advantage that contributors are forced to think about the command
+and its options and document them from the start. Previously we used
+not to use docopts and argparse was used. However we noticed that for
+some contributions the lead to commands that were either not properly
+documented or the developers delivered ambiguous commands that
+resulted in confusion and wrong ussage by the users. Hence, we do
+recommend that you use docopts.&lt;/p&gt;
+
+&lt;p&gt;The transformation is enabled by the &lt;code&gt;@&lt;/code&gt;command decorator that takes
+also the manual page and creates a proper help message for the shell
+automatically. Thus there is no need to introduce a sepaarte help
+method as would normally be needed in CMD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Inventory</title>
+      <link>/project/cloudmesh-inventory/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-inventory/</guid>
+      <description>
+
+&lt;p&gt;We have two frameworks for an inventory. We like to reevaluate them
+and merge them into a single framework. Framework A allows to define
+arbitrary attributes which is more general&lt;/p&gt;
+
+&lt;h2 id=&#34;inventory-a&#34;&gt;Inventory - A&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh.inventory&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cloudmesh.inventory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes its necessary to maintain a simple inventory. Naturally if
+you know python you can do this with dicts. However to manage a large
+number of items with repeated values its is of advantage to do this
+from the commandline.&lt;/p&gt;
+
+&lt;p&gt;We have written such a tool that lets you easily manage the resources
+in a table format.&lt;/p&gt;
+
+&lt;h2 id=&#34;inventory-b&#34;&gt;Inventory - B&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/cloudmesh/inventory&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/inventory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an older system that was developed for managing Futuresystems
+resources at Indiana University.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh/cloudmesh.inventory&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/cloudmesh.inventory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh/inventory&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/inventory&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Reservation</title>
+      <link>/project/cloudmesh-reservation/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-reservation/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This project needs improvements.&lt;/p&gt;
+
+&lt;p&gt;Often we find resources that are limited in nature. We desire a REST
+framewor that can reserve resources and display teh reservation in a
+convenient manner.&lt;/p&gt;
+
+&lt;p&gt;Cloudmesh Resource Reservation is being developed to create and manage
+reservationsh. It is important that this is supported in a multiuser
+environment. We will be developing for this a time based reservation
+system in which users will have access to resources based on time
+slices. This project will develop such a reservation system as a
+commandline tool and also as a GUI. As a result we will
+have a simple commandline tool that allows the administrator or user
+to choose a reservation or query the system to find a suitable
+reservation. Limits will be put in place so that users do not reserve
+too many resources and block the systems while not allowing others to
+use it. The system will have an abstract plugin that allows the
+integration of a real bare metal provisioning. However, for this
+project, we will simulate it and focus only on the management of the
+reservation itself and not how they are used or how machines are
+leveraged for the actual bare metal provisioning. Convenient tables
+and views are developed as part of the GUI development.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Usage:
+    reservation --rst
+    reservation --version
+    reservation find [all]
+                     [--user=USER_ID]
+                     [--label=ID]
+                     [--cm_id=ID]
+                     [--format=FORMAT]                             
+    reservation list [--cm_id=CM_ID]
+                     [--user=USER_ID]
+                     [--project=PROJECT_ID]
+                     [--label=STRING]
+                     [--start=TIME_START]
+                     [--end=TIME_END]
+                     [--host=HOST]
+                     [--summary=SUMMARY]
+                     [--format=FORMAT]
+    reservation duration [--cm_id=CM_ID]
+    reservation delete [all]
+                       [--cm_id=CM_ID]
+                       [--user=USER_ID]
+                       [--project=PROJECT_ID]
+                       [--label=STRING]
+                       [--start=TIME_START]
+                       [--end=TIME_END]
+                       [--host=HOST]
+    reservation update [--cm_id=CM_ID]
+                       [--user=USER_ID]
+                       [--project=PROJECT_ID]
+                       [--label=STRING]
+                       [--start=TIME_START]
+                       [--end=TIME_END]
+                       [--host=HOST]
+                       [--summary=SUMMARY]
+                       [--cm_id=CM_ID]
+	reservation add
+	   --cm_id=CM_ID
+		--user=USER_ID
+		--project=PROJECT_ID
+		--label=STRING
+		--start=TIME_START
+		--end=TIME_END
+		--host=HOST
+		--summary=SUMMARY
+    reservation add --file=FILE
+Options:
+    --rst                 print an rst manul page
+    --version             print the version
+    --label=STRING        label id reservation
+    --cm_id=CM_ID         reservation cloudmesh id
+    --user=USER_ID        user id
+    --project=PROJECT_ID  project id
+    --start=TIME_START    Start time of the reservation, in
+                          YYYY/MM/DD HH:MM:SS format. [default: 1901-01-01]
+    --end=TIME_END        End time of the reservation, in
+                          YYYY/MM/DD HH:MM:SS format. In addition a duration
+                          can be specified if the + sign is the first sign.
+                          The duration will than be added to
+                          the start time. [default: 2100-12-31]
+    --host=HOST           host number 
+    --summary=SUMMARY     summary of the reservation
+    --file=FILE           Adding multiple reservations from one file
+    --format=FORMAT       Format is either table or jaon
+                          [default: table]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh/reservation&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/reservation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudmesh/reservation/blob/master/doc/source/introduction.rst&#34; target=&#34;_blank&#34;&gt;https://github.com/cloudmesh/reservation/blob/master/doc/source/introduction.rst&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Task</title>
+      <link>/project/cloudmesh-task/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-task/</guid>
+      <description>
+
+&lt;h1 id=&#34;task&#34;&gt;task&lt;/h1&gt;
+
+&lt;p&gt;Often you may want to execute a number of commands in parallel. This
+project shows an example on how to do this easily with Celery.&lt;/p&gt;
+
+&lt;p&gt;Our example creates a task that executes a shell command remotely on a
+machine. However, this is just an example you can realy create other
+tasks as you please.&lt;/p&gt;
+
+&lt;p&gt;One of the issues is how to easily stage such tasks with a number of
+given parameters. To make the passing uniform, we pass all arguments
+via kwargs.&lt;/p&gt;
+
+&lt;p&gt;In our example we simply devined a function such as::&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@app.task
+def cm_ssh(host, username, command):
+    result = ssh(&amp;quot;{0}@{1}&amp;quot;.format(username, host), command)
+    return str(result)
+``
+
+In our main program we can than call it with our Sequential or
+parallel constructs such as 
+
+
+from cloudmesh_task.parallel import Parallel, Sequential::
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;hosts = [&amp;ldquo;server1.futuregrid.org&amp;rdquo;,
+           &amp;ldquo;server2.futuregrid.org&amp;rdquo;,
+           &amp;ldquo;server3.futuregrid.org&amp;rdquo;,
+           &amp;ldquo;server4.futuregrid.org&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;result = Sequential(hosts, cm_ssh,
+                      username=&amp;ldquo;gvonlasz&amp;rdquo;,
+                      command=&amp;ldquo;qstat&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;result = Parallel(hosts, cm_ssh,
+                    username=&amp;ldquo;gvonlasz&amp;rdquo;,
+                    command=&amp;ldquo;qstat&amp;rdquo;)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+The first command executes the task sequentially over the array given
+in the first parameter. The second one executes it in parallel
+
+
+First start in one terminal the celery server::
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;cm-task.py start&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+In a second version start the test program::
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;python prg.py
+```&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudmesh Virtual Slurm Cluster</title>
+      <link>/project/cloudmesh-slurm/</link>
+      <pubDate>Sat, 24 Nov 2018 01:41:03 -0500</pubDate>
+      
+      <guid>/project/cloudmesh-slurm/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; We like to update this project to&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;use python instead of shell scripts and&lt;/li&gt;
+&lt;li&gt;use cloudmesh client instead of Euca tools to manage virtual machines&lt;/li&gt;
+&lt;li&gt;use kubernetes in addition to vms whch we want to integrate in
+cloudmesh so this is automatically provided.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Slurm is a workload manager used in clusters and supercomputers.
+Virtual Slurm is a tool to help manage slurm deployment in cloudmesh
+This project also includes installation of hadoop&lt;/p&gt;
+
+&lt;p&gt;The following commands are added to cloudmesh on setting up this project
+    slurm
+    hadoop&lt;/p&gt;
+
+&lt;p&gt;The Slurm command gives the following options:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;slurm info GROUPNAME&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This command displays the IP of master node and state of worker nodes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;slurm deploy GROUPNAME LOGINNAME&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This command can be used to deploy slurm in a group (Specify the login name used to create the group)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;slurm delete GROUPNAME&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This command can be used to delete a group form the database
+Note: This does not delete the actual cluster, it just deletes its entries in database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The hadoop command give the following options:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;hadoop info GROUPNAME&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This command displays the IP of master node&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;hadoop deploy GROUPNAME LOGINNAME&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This command can be used to deploy slurm in a group (Specify the login name used to create the group)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;hadoop delete GROUPNAME&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This command can be used to delete a group form the database
+note: This does not delete the actual cluster, it just deletes its entries in database&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -157,69 +599,6 @@ and adoption by a wide variety of frameworks.&lt;/p&gt;
       <pubDate>Sat, 24 Nov 2018 01:33:04 -0500</pubDate>
       
       <guid>/post/version-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Version 1</title>
-      <link>/post/version-1/</link>
-      <pubDate>Sat, 24 Nov 2018 01:33:02 -0500</pubDate>
-      
-      <guid>/post/version-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Version Graphql</title>
-      <link>/post/version-graphql/</link>
-      <pubDate>Sat, 24 Nov 2018 01:32:53 -0500</pubDate>
-      
-      <guid>/post/version-graphql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data Applications and Analytics</title>
-      <link>/publication/las-18-bigdata/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/las-18-bigdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data Software</title>
-      <link>/publication/las-18-software-1/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/las-18-software-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data Software</title>
-      <link>/publication/las-18-software-2/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/las-18-software-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>/publication/las-18-cloudcomputing/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/las-18-cloudcomputing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Computing with the Raspberry Pi</title>
-      <link>/publication/las-18-cloudcomputing-pi/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/las-18-cloudcomputing-pi/</guid>
       <description></description>
     </item>
     

@@ -36,7 +36,63 @@
     
     <url>
     
+      <loc>/project/cloudmesh-pbs/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/cloudmesh-client/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cloudmesh-cm4/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cloudmesh-cmd5/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cloudmesh-inventory/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cloudmesh-reservation/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cloudmesh-task/</loc>
+      <lastmod>2018-11-24T01:41:03-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/cloudmesh-slurm/</loc>
       <lastmod>2018-11-24T01:41:03-05:00</lastmod>
     </url>
     
